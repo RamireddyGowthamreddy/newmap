@@ -1,0 +1,4 @@
+target "GoogleMapsPod" do
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+end
